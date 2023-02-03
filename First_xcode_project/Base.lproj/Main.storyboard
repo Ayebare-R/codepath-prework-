@@ -119,7 +119,7 @@
                         <outlet property="lastNameTextField" destination="VAm-ht-xu0" id="jY9-uy-0WQ"/>
                         <outlet property="morePetsStepper" destination="BdA-XP-cXl" id="uqh-Zg-Wlz"/>
                         <outlet property="morePetsSwitch" destination="2ex-wN-wYb" id="LMu-jZ-on3"/>
-                        <outlet property="numberOfPetsLabel" destination="hsT-iM-SY3" id="uvL-Be-bls"/>
+                        <outlet property="numberOfPetsLabel" destination="0VX-Em-IZX" id="B6x-rc-pKR"/>
                         <outlet property="schoolNameTextField" destination="9vb-Yb-0xc" id="Lp8-z3-SQQ"/>
                         <outlet property="yearSegmentedControl" destination="HuN-rh-O4s" id="aRh-OJ-rD8"/>
                     </connections>

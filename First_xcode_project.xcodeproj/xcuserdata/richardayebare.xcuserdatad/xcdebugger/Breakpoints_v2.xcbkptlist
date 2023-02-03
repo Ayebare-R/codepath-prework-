@@ -3,4 +3,54 @@
    uuid = "6E2C7BF5-095F-4CEB-981E-994937C59CB3"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6E12A66-3169-439F-B806-54CD99905243"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "First_xcode_project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "introduceSelfDidTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6E12A66-3169-439F-B806-54CD99905243 - ae095c207d51aa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "First_xcode_project.ViewController.introduceSelfDidTap(__C.UIButton) -&gt; ()"
+                  moduleName = "First_xcode_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardayebare/Downloads/First_xcode_project/First_xcode_project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "B6E12A66-3169-439F-B806-54CD99905243 - ae095c207d51aa61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "First_xcode_project.ViewController.introduceSelfDidTap(__C.UIButton) -&gt; ()"
+                  moduleName = "First_xcode_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardayebare/Downloads/First_xcode_project/First_xcode_project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
