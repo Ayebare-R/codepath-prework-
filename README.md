@@ -6,7 +6,7 @@ The first x_code_project I've worked on for the Codepath iOS development program
 
 ### App Walk-though
 
-<!-- <img src= https://github.com/Ayebare-R/codepath-prework-/blob/main/gifgit.gifwidth=200> <br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<!-- <img src= https://github.com/Ayebare-R/codepath-prework-/blob/main/gifgit.gif width=200> <br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 
