@@ -6,9 +6,7 @@ The first x_code_project I've worked on for the Codepath iOS development program
 
 ### App Walk-though
 
-<!-- <img src= https://imgur.com/8ar3RM9 width=200 <br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
-![] (https://i.imgur.com/8ar3RM9.gif)
+(https://i.imgur.com/8ar3RM9.gif)
 
 ### Required Features
 
